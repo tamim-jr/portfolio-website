@@ -6,7 +6,7 @@
 }
 /* first section  */
 .first-section{
-    background-image: url(/img/bg-img.jpg);
+    background-image: url(https://raw.githubusercontent.com/tamim-jr/portfolio-website/main/img/bg-img.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
